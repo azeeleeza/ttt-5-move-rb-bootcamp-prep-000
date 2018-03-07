@@ -7,7 +7,7 @@ puts "Welcome to Tic Tac Toe!".
 
 board = []
 9.times do
-board.push(" ")
+  board.push(" ")
 end
 
 puts "Where would you like to go?"
